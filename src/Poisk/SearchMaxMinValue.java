@@ -1,6 +1,6 @@
 package Poisk;
 
-public class Main {
+public class SearchMaxMinValue {
     public static void main(String[] args) {
         int[] myArray = {2, 2, 3, 4, 5, 6, 78, 1, 4, 3, 2, 5, 7, 44};
         int min = myArray[0];
