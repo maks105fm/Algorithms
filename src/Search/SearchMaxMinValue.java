@@ -1,4 +1,4 @@
-package Poisk;
+package Search;
 
 public class SearchMaxMinValue {
     public static void main(String[] args) {
